@@ -1,1 +1,1 @@
-# LTI-Integration with Brightspace
+# LTI-Integration
